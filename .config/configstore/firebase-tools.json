@@ -1,0 +1,47 @@
+{
+	"analytics-uuid": "b22dea64-12d3-4c68-8661-c8de41fd7a9b",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1604411273459
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101491936349137441752",
+		"email": "ryouheiprograming@gmail.com",
+		"email_verified": true,
+		"at_hash": "MI5_JTIhcH3HfMgeHKmTsA",
+		"iat": 1603844694,
+		"exp": 1603848294
+	},
+	"tokens": {
+		"expires_at": 1604414902722,
+		"refresh_token": "1//0eoEcYLU0K0LPCgYIARAAGA4SNwF-L9Ir2IpQG3eTlgW31uRdamNdj2CtwDaranYb4-VshlJPC0myEjpyd8w0-EyfVqdjyLrr0L4",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.A0AfH6SMBZvg7k2QfkHgbtIOMCTTr6bmVIXATA76vt9SzDGr2wqdnFV9VJ6G9Zy0FDB0VpBTgsQ4PDDHNyXVJG4mBoEF_vYEvUFLrz8YQjYu0LR26G8qAq_jYJrCuwbGaYpDNlbt6OlyzFxrY6LBjr0OzsL0bc-BV_TfjZcbqbqXcAKFrTMp6p",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImYwOTJiNjEyZTliNjQ0N2RlYjEwNjg1YmI4ZmZhOGFlNjJmNmFhOTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNDkxOTM2MzQ5MTM3NDQxNzUyIiwiZW1haWwiOiJyeW91aGVpcHJvZ3JhbWluZ0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InNYM19zekpQYldEOE5sdTllMWVocEEiLCJpYXQiOjE2MDQ0MTEzMDMsImV4cCI6MTYwNDQxNDkwM30.PH_3hW3P-xZCJIMN9NunhPJSn4Eg5GhmJRgRur4uW5zcdL7nMyw6JWsOKYCLqh3fTeRdjOPfTXEZeX5WgHKrhVSxa7acagZbB4OKkm6VImnWP0-Owm8jlXlcq8CYl8y7vSX-dvh9Qtb2wipn16iLkF_A8VNEYUB1Ij9-enfaf03fDPR1SFdH1KEvUDOAZ_pLfq6jFtCFQqmwKqs3ImSiP_pUH-crl678bu0Uu6VHOpixYz1HaBkV1h9Vz0h9ZpuDYM6SVD9H01x0IrMQXCf10dw0ku5a_r0dh9UZrTa0GiG4iNROuf1F5buxRvs0Fmtcm2lwc7GuR_foNrsNTUiXdA"
+	},
+	"activeProjects": {
+		"/Users/ryohei/Desktop/Desktop - MBP/programing/G's Academy/Projects/js_memo/react-evernote": "evernote-clone-5acd4",
+		"/Users/ryohei/Desktop/Desktop - MBP/programing/G's Academy/Projects/js_save_brain_resource": "evernote-clone-5acd4",
+		"/Users/ryohei/Desktop/Desktop - MBP/programing/G's Academy/Projects/js_evernote-clone": "evernote-clone-5acd4",
+		"/Users/ryohei/Desktop/Desktop - MBP/programing/G's Academy/Projects/js_chat_app": "slack-clone-b9697"
+	}
+}

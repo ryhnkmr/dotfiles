@@ -1,0 +1,13 @@
+﻿{
+"Lang":"en","launchCount":3,"MRU":{"MaxSize":50,"StartMenuSize":4,"list":[{"target":{"lastUseTime":"12/22/2020 12:15:32 PM","destination":"54.199.126.253","authType":"PublicKey","account":"ubuntu","identityFile":"/Users/ryohei/Desktop/Desktop - MBP/programing/G's Academy/barcode-battler.pem"},"rendering":{"caret":"ice","foreColor":"FFFFFF","transition":"FadeInOut+Scale+Strong","font":{"type":"res","size":10,"ID":"Font_Inconsolata_M"},"background":{"style":"Scaled","name":"","alpha":1}},"settings":{"caption":"54.199.126.253","encoding":"UTF8_Latin","leftAltKey":"Meta","rightAltKey":"Meta","enableShellAssist":true}}
+]}
+,"effects":{"RegurarOpeningStage1EffectDuration":500,"LinefeedAnimationUnitTime":50,"DefaultCharacterAnimationTime":120,"AppModeSwitchTime":200}
+,"backgroundPictures":[],"soundFiles":[],"AWS":{"accessKey":"","secretKey":"","initialRegion":""}
+,"initialRenderProfile":{"foreColor":"FFFFFF","background":{"name":"","alpha":0.5,"style":"Scaled"},"font":{"ID":"Font_Inconsolata_M","size":10.0,"type":"res"},"caret":"ice","transition":"FadeInOut+Scale+Strong"}
+,"Terminal":{"NonAsciiCharacterFontName":"Osaka","CaretInterval":500,"SaveSessionList":true,"LogDirectory":"/Users/ryohei/.config/Poderosa/log","IMEKeyModifier":"Command","IMEKeyBody":53,"WheelAmount":3,"InitialEnableShellAssist":true}
+,"SSH":{"showKnownHostMessage":true,"KeepAliveInterval":120,"privateKeyRetainCount":10}
+,"Network":{"ipVersionPriority":"Both","timeToShowConnectionDelayBox":0}
+,"sessionList":[[0,0,0,1,2],[0,0,0,0,0],[0,0,0,0,1]]
+,"windowLayout":[{"number":0,"windowState":"Normal","rect":"268.00,168.00,1255.00,784.00","currentSplit":0,"splitInfo":{"r11":[[784,1254]],"r12":[[784,624,624]],"r13":[[784,414,414,414]],"r21":[[389,1254],[389,1254]],"r22":[[389,624,624],[389,624,624]],"r23":[[389,414,414,414],[389,414,414,414]],"r31":[[258,1254],[258,1254],[258,1254]],"r32":[[258,624,624],[258,624,624],[258,624,624]],"r33":[[258,414,414,414],[258,414,414,414],[258,414,414,414]],"T_Top":[[0,0,0],[0,0,0],"Top"],"T_Bottom":[[0,0,0],[0,0,0],"Bottom"],"T_Left":[[0,0,0],[0,0,0],"Left"],"T_Right":[[0,0,0],[0,0,0],"Right"]}}
+]
+,"privatekeys":["/Users/ryohei/Desktop/Desktop - MBP/programing/G's Academy/barcode-battler.pem"]}
