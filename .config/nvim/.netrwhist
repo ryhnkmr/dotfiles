@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/ryohei/dotfiles/.config/alacritty'
+let g:netrw_dirhist_7='/Users/ryohei/dotfiles/.config'
+let g:netrw_dirhist_6='/Users/ryohei/dotfiles'
 let g:netrw_dirhist_5='/Users/ryohei/dotfiles/dotfiles'
 let g:netrw_dirhist_4='/Users/ryohei/.emacs.d'
 let g:netrw_dirhist_3='/Users/ryohei/Desktop'
