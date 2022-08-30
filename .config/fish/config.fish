@@ -7,7 +7,9 @@ set -gx OMF_PATH $HOME/.local/share/omf
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
 
+set PATH /Users/nakamuraryohei/flutter/bin $PATH
 set PATH /usr/local/bin $PATH
+set PATH $HOME/.pub-cache/bin $PATH
 starship init fish | source
 
 set fish_plugins theme peco
@@ -19,4 +21,3 @@ end
 function fish_user_key_bindings
   bind \c] peco_change_directory # Bind for prco change directory to Ctrl+]
 end
-
