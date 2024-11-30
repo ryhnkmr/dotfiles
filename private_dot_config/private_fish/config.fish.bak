@@ -1,0 +1,22 @@
+# PATH settings
+set -x PATH /usr/local/bin $PATH
+set -x PATH $HOME/.pub-cache/bin $PATH
+set -x PATH $HOME/.goenv/bin $PATH
+set -x PATH $HOME/go/bin $PATH
+set -x PATH $PATH $GOPATH/bin
+
+# Starship
+starship init fish | source
+
+# Fish plugins
+set fish_plugins theme peco
+
+# Key bindings
+function fish_user_key_bindings
+  bind \cr peco_select_history # Bind for prco history to Ctrl+r
+  bind \c] peco_change_directory # Bind for prco change directory to Ctrl+]
+end
+
+ Aliases
+alias air ~/go/bin/air
+
